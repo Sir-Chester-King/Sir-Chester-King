@@ -1,4 +1,5 @@
-Hi 👋 My name is Nicola Ricciardi, a new aspirant developer =================================  * 🧠  I'm learning PyTorch
+Hi 👋 My name is Nicola Ricciardi, a new aspirant developer.
+
 * 🧠  I'm learning Python Langauge and a containers software (Docker & Kubernetes)
 
 <a href="https://www.github.com/Sir-Chester-King" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Sir-Chester-King?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
