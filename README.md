@@ -1,13 +1,11 @@
-Hi 👋 My name is Nicola Ricciardi, a new aspirant Python developer.
+Hi 👋 My name is Nicola Ricciardi, a new aspirant Python developer. 😃
+
 ## What i'm learning? 🧠
 * Python Langauge
 * Docker Technology
 * Kubernetees Orchestrator (K8s)
 
-<p align="left"> <img src="https://img.shields.io/github/followers/Sir-Chester-King?logo=github&style=for-the-badge&color=blue"/> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sir-Chester-King&color=blue&style=for-the-badge&abbreviated=true"/> </p>
-  
 ---
 ## Skills
 
@@ -21,6 +19,10 @@ Hi 👋 My name is Nicola Ricciardi, a new aspirant Python developer.
 ## Socials
 
 <p align="left"> <a href="https://www.github.com/Sir-Chester-King" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/nicolaricciardi97" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+<p align="left"> <img src="https://img.shields.io/github/followers/Sir-Chester-King?logo=github&style=for-the-badge&color=blue"/> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sir-Chester-King&color=blue&style=for-the-badge&abbreviated=true"/> </p>
 
 ---
 ## Languages
