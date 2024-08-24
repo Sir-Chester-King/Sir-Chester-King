@@ -4,9 +4,10 @@ Hi 👋 My name is Nicola Ricciardi, a new aspirant Python developer.
 * Docker Technology
 * Kubernetees Orchestrator (K8s)
 
-<a href="https://www.github.com/Sir-Chester-King" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/github/followers/Sir-Chester-King?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-</a>
+<p align="left"> <img src="https://img.shields.io/github/followers/Sir-Chester-King?logo=github&style=for-the-badge&color=blue"/> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sir-Chester-King&color=blue&style=for-the-badge&abbreviated=true"/> </p>
+  
 
 ### Skills
 
