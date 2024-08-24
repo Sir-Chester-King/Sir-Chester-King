@@ -1,11 +1,10 @@
 Hi 👋 My name is Nicola Ricciardi, a new aspirant Python developer. 😃
 
 ## What i'm learning? 🧠
-* Python Langauge
+* Python Coding Langauge
 * Docker Technology
 * Kubernetees Orchestrator (K8s)
-
-
+  
 ---
 ## Skills
 
