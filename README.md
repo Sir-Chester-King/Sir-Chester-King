@@ -37,7 +37,9 @@ Hi 👋 My name is Nicola Ricciardi, a new aspirant Python developer.
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sir-Chester-King&show_icons=true&locale=en&layout=compact&title_color=0891b2&text_color=ffffff&bg_color=1c1917" alt="Stats"/>
 </p>
-<br><br> ddd
+
+
+<b>My GitHub Stats</b>
 <p>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Sir-Chester-King&background=1c1917&show_icons=true&locale=en&layout=compact&title_color=0891b2&text_color=ffffff&bg_color=1c1917&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff" alt="Contributions"/>
 </p>
