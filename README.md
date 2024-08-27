@@ -1,9 +1,14 @@
 Hi 👋 My name is Nicola Ricciardi, a new aspirant Python developer. 😃
 
 ## What i'm learning? 🧠
-* Python Coding Langauge
-* Docker Technology
-* Kubernetees Orchestrator (K8s)
+* Code Language:
+  - Python
+* Framework:
+  - PyTest
+* Container Technology:
+  - Docker
+* Orchestrator Container:
+  - Kubernetees Orchestrator (K8s)
   
 ---
 ## Skills
