@@ -1,11 +1,20 @@
-Hi 👋 My name is Nicola Ricciardi, a new aspirant Python developer. 😃
+Hi 👋 My name is Nicola Ricciardi, a new aspirant Software Engineer. 😃
 
-## What i'm learning? 🧠
+## What i learn in my free time? 🧠
+## Software
 * Code Language:
   - Python
-* Framework:
+* Framework Test:
   - PyTest
-* Container Technology:
+
+## Machine Learning
+* Udemy Course:
+  - Machine Learning A-Z: AI, Python & R
+* Framework:
+  - PyTorch
+    
+## Containerization Technology
+* Container:
   - Docker
 * Orchestrator Container:
   - Kubernetees Orchestrator (K8s)
