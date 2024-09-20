@@ -1,4 +1,4 @@
-Hi 👋 My name is Nicola Ricciardi, a new aspirant Software Engineer. 😃
+Hi 👋 My name is Nicola Ricciardi, i'm studying to become a Machine Learning Engineer. 😃
 
 ## What i learn in my free time? 🧠
 ## Software
@@ -12,6 +12,8 @@ Hi 👋 My name is Nicola Ricciardi, a new aspirant Software Engineer. 😃
   - Machine Learning A-Z: AI, Python & R
 * Framework:
   - PyTorch
+  - Pandas
+  - Matplotlib
     
 ## Containerization Technology
 * Container:
