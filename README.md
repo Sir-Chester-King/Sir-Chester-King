@@ -12,7 +12,7 @@ Hi 👋 My name is Nicola Ricciardi, i'm studying to become a Machine Learning E
   - Machine Learning A-Z: AI, Python & R
     - Instructors: Kirill Eremenko, Hadelin de Ponteves
 * Framework:
-  - PyTorch
+  - Numpy
   - Pandas
   - Matplotlib
     
