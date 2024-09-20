@@ -10,6 +10,7 @@ Hi 👋 My name is Nicola Ricciardi, i'm studying to become a Machine Learning E
 ## Machine Learning
 * Udemy Course:
   - Machine Learning A-Z: AI, Python & R
+    - Instructors: Kirill Eremenko, Hadelin de Ponteves
 * Framework:
   - PyTorch
   - Pandas
