@@ -2,7 +2,7 @@ Hi 👋 My name is Nicola Ricciardi, i'm studying to become a Machine Learning E
 
 ## What i learn in my free time? 🧠
 ## Software
-* Code Language:
+* Programming Language:
   - Python
 * Framework Test:
   - PyTest
