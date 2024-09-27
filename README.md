@@ -9,8 +9,20 @@ Hi 👋 My name is Nicola Ricciardi, i'm studying to become a Machine Learning E
 
 ## Machine Learning
 * Udemy Course:
-  - Machine Learning A-Z: AI, Python & R
-    - Instructors: Kirill Eremenko, Hadelin de Ponteves
+  - Machine Learning A-Z: AI & Python
+    - Instructors: Kirill Eremenko, Hadelin de Ponteve
+      - Topic Covered:
+        - Data Preprocessing
+        - Regression: Simple Linear Regression, Multiple Linear Regression, Polynomial Regression, SVR, Decision Tree Regression, Random Forest Regression
+      - Topic To Be Covered
+        - Classification: Logistic Regression, K-NN, SVM, Kernel SVM, Naive Bayes, Decision Tree Classification, Random Forest Classification
+        - Clustering: K-Means, Hierarchical Clustering
+        - Association Rule Learning: Apriori, Eclat
+        - Reinforcement Learning: Upper Confidence Bound, Thompson Sampling
+        - Natural Language Processing: Bag-of-words model and algorithms for NLP
+        - Deep Learning: Artificial Neural Networks, Convolutional Neural Networks
+        - Dimensionality Reduction: PCA, LDA, Kernel PCA
+        - Model Selection & Boosting: k-fold Cross Validation, Parameter Tuning, Grid Search, XGBoost
 * Framework:
   - Numpy
   - Pandas
