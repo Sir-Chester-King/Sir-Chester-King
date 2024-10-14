@@ -4,6 +4,10 @@ Hi 👋 My name is Nicola Ricciardi, i'm studying to become a Machine Learning E
 ## Software
 * Programming Language:
   - Python
+* Framework:
+  - Numpy
+  - Pandas
+  - Matplotlib
 
 ## Machine Learning
 * Udemy-> <ins><strong>Machine Learning A-Z: AI & Python</strong></ins>
@@ -20,10 +24,6 @@ Hi 👋 My name is Nicola Ricciardi, i'm studying to become a Machine Learning E
       - Deep Learning: Artificial Neural Networks, Convolutional Neural Networks
       - Dimensionality Reduction: PCA, LDA, Kernel PCA
       - Model Selection & Boosting: k-fold Cross Validation, Parameter Tuning, Grid Search, XGBoost
-* Framework:
-  - Numpy
-  - Pandas
-  - Matplotlib
   
 ---
 ## Skills
