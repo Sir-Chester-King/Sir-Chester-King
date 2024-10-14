@@ -4,8 +4,6 @@ Hi 👋 My name is Nicola Ricciardi, i'm studying to become a Machine Learning E
 ## Software
 * Programming Language:
   - Python
-* Framework Test:
-  - PyTest
 
 ## Machine Learning
 * Udemy-> <ins><strong>Machine Learning A-Z: AI & Python</strong></ins>
