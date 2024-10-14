@@ -24,19 +24,13 @@ Hi 👋 My name is Nicola Ricciardi, i'm studying to become a Machine Learning E
   - Numpy
   - Pandas
   - Matplotlib
-    
-## Containerization Technology
-* Container:
-  - Docker
-* Orchestrator Container:
-  - Kubernetees Orchestrator (K8s)
   
 ---
 ## Skills
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,docker,kubernetes,vscode,pycharm" />
+    <img src="https://skillicons.dev/icons?i=py,vscode,pycharm" />
   </a>
 </p>
 
